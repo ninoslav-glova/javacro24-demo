@@ -1,3 +1,3 @@
 rootProject.name = 'javacro24-demo'
-include ':rag'
+include ':rag', ':crag'
 

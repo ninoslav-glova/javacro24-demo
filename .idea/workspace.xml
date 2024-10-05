@@ -4,47 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708f6c87-d3b9-457b-a250-612440959c54" name="Changes" comment="Initial commit.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Run_RAG_App.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/demo__clean__build_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/src/main/java/hr/javacro/demo/crag/CragApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/src/test/java/hr/javacro/demo/crag/CragApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/src/test/java/hr/javacro/demo/crag/TestCragApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crag/src/test/java/hr/javacro/demo/crag/TestcontainersConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/src/main/java/hr/javacro/demo/rag/RagApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/src/test/java/hr/javacro/demo/rag/RagApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rag/src/test/java/hr/javacro/demo/rag/TestRagApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="708f6c87-d3b9-457b-a250-612440959c54" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,22 +39,16 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="javacro24-demo" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="demo" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="javacro24-demo" type="f1a62948:ProjectNode" />
+                <item name="crag" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="demo" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="javacro24-demo" type="f1a62948:ProjectNode" />
                 <item name="rag" type="2d1252cf:ModuleNode" />
               </path>
             </expand>
@@ -111,13 +68,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ninoslav-glova/javacro24-demo.git",
-    "accountId": "f68b7862-0fda-45c2-afd0-437bbb1bd882"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ninoslav-glova&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ninoslav-glova/javacro24-demo.git&quot;,
+    &quot;accountId&quot;: &quot;f68b7862-0fda-45c2-afd0-437bbb1bd882&quot;
+  }
+}</component>
   <component name="HttpClientSelectedEnvironments">
     <file url="file:///tmp/whats-new-dir/whats-new.http" environment="test" />
   </component>
@@ -133,36 +97,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build demo.executor": "Run",
-    "Gradle.demo [bootJar].executor": "Debug",
-    "Gradle.demo [clean, build].executor": "Run",
-    "Gradle.demo [clean].executor": "Run",
-    "HTTP Request.demo-endpoints | #1.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "Spring Boot.Run RAG App.executor": "Debug",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "temurin-21",
-    "last_opened_file_path": "/mnt/SaturnV/Projects/ML/javacro24-demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.46038035",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build demo.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demo [bootJar].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.demo [clean, build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.javacro24-demo [bootJar].executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.demo-endpoints | #1.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
+    &quot;Spring Boot.Run RAG App.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/mnt/SaturnV/Projects/ML/javacro24-demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.46038035&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.demo [clean]">
     <configuration name="demo [clean]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
       <ExternalSystemSettings>
@@ -176,6 +141,28 @@
         <option name="taskNames">
           <list>
             <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="javacro24-demo [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -226,9 +213,17 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="CragApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="javacro24-demo.crag.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hr.javacro.demo.crag.CragApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CragApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="crag.main" />
+      <module name="javacro24-crag.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hr.javacro.demo.crag.CragApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -319,8 +314,10 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.demo [clean, build]" />
+      <item itemvalue="Gradle.javacro24-demo [bootJar]" />
       <item itemvalue="Gradle.demo [clean]" />
       <item itemvalue="HTTP Request.demo-endpoints | #1" />
+      <item itemvalue="Spring Boot.CragApplication (1)" />
       <item itemvalue="Spring Boot.CragApplication" />
       <item itemvalue="Spring Boot.Run RAG App" />
     </list>
@@ -351,8 +348,18 @@
       <workItem from="1728073662216" duration="1795000" />
       <workItem from="1728079424748" duration="1491000" />
       <workItem from="1728081035312" duration="6406000" />
-      <workItem from="1728133689410" duration="817000" />
+      <workItem from="1728133689410" duration="2684000" />
+      <workItem from="1728136386360" duration="107000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <option name="closed" value="true" />
+      <created>1728134516712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728134516712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
